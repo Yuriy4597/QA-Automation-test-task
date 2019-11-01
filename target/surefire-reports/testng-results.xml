@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression" duration-ms="7619" started-at="2019-11-01T17:34:41Z" finished-at="2019-11-01T17:34:49Z">
+    <groups>
+    </groups>
+    <test name="UI" duration-ms="7619" started-at="2019-11-01T17:34:41Z" finished-at="2019-11-01T17:34:49Z">
+      <class name="TestPage.TestSearch">
+        <test-method status="PASS" signature="setTest()[pri:0, instance:TestPage.TestSearch@19fb8826]" name="setTest" duration-ms="6671" started-at="2019-11-01T17:34:41Z" description=" QA-Automation-test-task " finished-at="2019-11-01T17:34:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestPage.TestSearch@19fb8826]" name="tearDown" is-config="true" duration-ms="683" started-at="2019-11-01T17:34:48Z" finished-at="2019-11-01T17:34:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestPage.TestSearch -->
+    </test> <!-- UI -->
+  </suite> <!-- Regression -->
+</testng-results>

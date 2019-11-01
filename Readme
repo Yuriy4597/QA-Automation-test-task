@@ -1,0 +1,8 @@
+
+
+
+
+
+
+
+- для запуску  mvn clean test allure:report allure:serve
